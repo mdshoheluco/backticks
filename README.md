@@ -1,2 +1,2 @@
 # backticks
-Official website for Bacticks Web Solutions 
+Official website for Backticks Web Solutions 
